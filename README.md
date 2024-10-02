@@ -1,9 +1,6 @@
 - Hi, I’m @hankwr
-- I'm currently a student at Lawrence University (Appleton, WI, USA)
-- I have no idea how git works
-- I'm probably just gonna make stuff for myself :)
-(bonus)
-- I'm trying to learn how to use CMake and my head hurts
+- I'm a recent graduate from Lawrence University (Appleton, WI, USA)
+- I'm working on a number of private projects including a multi-platform graphical engine in C!
 
 <!---
 hankwr/hankwr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
